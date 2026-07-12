@@ -1,71 +1,103 @@
-Hi there, I'm Muhammad Faizan Mumtaz 👋
-AI Engineer | Building Intelligent Systems at Scale
-I'm an experienced AI Engineer with 3+ years of expertise in developing and deploying production-ready AI systems. I specialize in building complex AI agents, implementing RAG architectures, and creating multimodal AI solutions that solve real-world problems.
+<h1 align="center">Hi, I'm Muhammad Faizan Mumtaz 👋</h1>
 
-🚀 What I Do
-I build intelligent systems that reduce manual operational efforts by up to 40% through automation, while delivering scalable AI solutions across diverse industries including legal tech, education, and enterprise systems.
+<p align="center">
+  <b>AI Engineer — I build production AI agents, RAG systems, and multimodal pipelines.</b>
+</p>
 
-💼 Currently
-AI Engineer at Xeven Solutions | Lahore, Pakistan
-Leading AI system development, from design to deployment, with focus on production-ready solutions.
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-faizan-mumtaz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mfaizanmumtaz999@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Contract-2ea44f?style=flat-square" alt="Open to work">
+  <img src="https://komarev.com/ghpvc/?username=mfaizanmumtaz&style=flat-square&color=blue" alt="Profile views">
+</p>
 
-🛠️ Technical Expertise
-AI & Machine Learning
+---
 
-Large Language Models (OpenAI GPT, Anthropic Claude, Google Gemini)
-AI Agent Development & Multi-Agent Systems
-Retrieval-Augmented Generation (RAG)
-Multimodal AI Processing (Vision, Audio, Text-to-Speech)
-Long-term Memory Implementation
-Model Context Protocol (MCP)
-Infrastructure & Deployment
+Most AI demos never survive contact with real users. My work is the part that comes after the demo: agents that hold state across long conversations, retrieval that stays accurate at a million documents, and APIs that don't fall over when traffic arrives.
 
-AWS EC2, Docker Containerization
-LangChain, LangGraph Orchestration
-Vector Databases & Semantic Search Engines
-AI Security, Token Management, Rate Limiting
-LangSmith Monitoring Services
-Development & Integration
+Currently an **AI Engineer at [Xeven Solutions](https://xevensolutions.com/)** in Lahore, Pakistan — owning AI systems end to end, from architecture through deployment and monitoring.
 
-Python Programming, FastAPI, WebSocket
-OpenAI API Management & Prompt Engineering
-PostgreSQL Database Administration
-Slack / Gmail / LinkedIn API Integration
-Custom AI Application Development
-🎯 Featured Projects
-Legal Translation Order Collection Agent
-Intelligent automation system streamlining legal translation workflows, reducing manual processing by 70% while handling 500+ daily interactions.
+**Right now I'm deep in:** LangGraph multi-agent orchestration · Model Context Protocol (MCP) · hybrid retrieval that actually beats naive vector search.
 
-Medical Cannabis Consultation Bot
-AI-powered medical consultation system providing personalized cannabis recommendations with HIPAA-compliant patient data management.
+---
 
-Business GPT
-Comprehensive AI agent managing company projects and automating Gmail/Slack communications, improving team efficiency by 45%.
+### 🛠️ Tech Stack
 
-Arabic NLP System
-Robust Arabic NLP system processing 1M+ documents with 92% accuracy in question-answering, summarization, and translation tasks.
+**Languages & Frameworks**
 
-NLP Practitioner LMS
-AI-driven educational platform featuring personalized learning paths and automated assessments, supporting 200+ students across accredited programs.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
 
-Influencer's GPT
-AI-powered content indexing system processing 200+ hours of YouTube content to deliver personalized interactions with 90% style accuracy.
+**LLMs & AI**
 
-🌟 Key Achievements
-Reduced manual operational efforts by 40% through intelligent automation
-Built multilingual AI systems supporting Arabic and English
-Successfully upgraded company AI infrastructure with cloud integration, redundant vector databases, and API failover systems
-Implemented production-ready AI solutions handling millions of documents
-📫 Let's Connect
-Email: mfaizanmumtaz999@gmail.com
-LinkedIn: muhammad-faizan-mumtaz
-GitHub: mfaizanmumtaz
-💡 Open to Collaboration
-I'm always interested in working on innovative AI projects, especially those involving:
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 
-Complex AI agent systems
-RAG architectures and semantic search
-Multimodal AI applications
-Enterprise AI automation
-NLP and multilingual systems
-"Building intelligent systems that make a difference"
+**Data & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![Redis](https://img.shields.io/badge/Vector%20DBs-DC382D?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
+
+<details>
+<summary><b>The longer list</b></summary>
+
+- **Agents & orchestration** — multi-agent systems, tool calling, long-term memory, LangGraph state machines, MCP servers and clients
+- **Retrieval** — RAG architectures, hybrid (semantic + keyword) search, re-ranking, chunking strategies, evaluation
+- **Multimodal** — vision, audio transcription, text-to-speech pipelines
+- **Production concerns** — token budgeting, rate limiting, prompt injection defense, API failover, redundant vector stores, observability with LangSmith
+- **Integrations** — Slack, Gmail, LinkedIn, WhatsApp Business API, Twilio
+
+</details>
+
+---
+
+### 🎯 Featured Work
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[Legal Translation Order Agent](https://chatbot.legaltranslations.ae/)** | Conversational agent that collects and validates legal translation orders, replacing a manual intake process. Handles 500+ interactions daily. | LangGraph · FastAPI · PostgreSQL |
+| **[Business GPT](https://xevengpt.com/)** | Internal agent that manages project context and automates Gmail/Slack comms for the team. | Multi-agent · Tool calling · Slack/Gmail APIs |
+| **[Arabic NLP System](https://arabic.arzaiengineer.site/)** | Arabic-language QA, summarization, and translation over a 1M+ document corpus. | Hybrid retrieval · Vector DB · Multilingual embeddings |
+| **[Medical Cannabis Consultation Bot](https://stg.myfloridagreen.com/)** | Patient-facing consultation flow with HIPAA-conscious data handling. | RAG · Guardrails · FastAPI |
+| **[NLP Practitioner LMS](https://nlpbusiness.site/)** | Learning platform with personalized paths and automated assessment for accredited programs. | LLM evaluation · RAG |
+| **[Influencer's GPT](https://irfangpt.com/)** | Indexes 200+ hours of video content so the creator's audience can query it in his voice. | Transcription · Semantic search · Style transfer |
+
+---
+
+### 🌟 Things I'm proud of
+
+- Cut manual operational work by **~40%** across client workflows through agent automation
+- Rebuilt company AI infrastructure with **redundant vector databases and API failover** — no single point of failure
+- Shipped **multilingual (Arabic + English)** systems that hold up on real user data, not just benchmarks
+- Retrieval pipelines running over **millions of documents** in production
+
+---
+
+### 📊 GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mfaizanmumtaz&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaizanmumtaz&layout=compact&hide_border=true&theme=default" alt="Top languages">
+</p>
+
+---
+
+### 📫 Let's build something
+
+I'm open to **remote roles, contract work, and collaborations** — especially anything involving agentic systems, retrieval at scale, or enterprise AI automation. I also teach AI engineering, so if you're learning, my inbox is open too.
+
+- 📧 **Email** — [mfaizanmumtaz999@gmail.com](mailto:mfaizanmumtaz999@gmail.com)
+- 💼 **LinkedIn** — [muhammad-faizan-mumtaz](https://www.linkedin.com/in/muhammad-faizan-mumtaz/)
+- 🐙 **GitHub** — [@mfaizanmumtaz](https://github.com/mfaizanmumtaz)
+
+<p align="center">
+  <i>Building intelligent systems that make a difference.</i>
+</p>
