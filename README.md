@@ -7,8 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-faizan-mumtaz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mfaizanmumtaz999@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Contract-2ea44f?style=flat-square" alt="Open to work">
-  <img src="https://komarev.com/ghpvc/?username=mfaizanmumtaz&style=flat-square&color=blue" alt="Profile views">
 </p>
 
 ---
@@ -63,12 +61,12 @@ Currently an **AI Engineer at [Xeven Solutions](https://xevensolutions.com/)** i
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[Legal Translation Order Agent](https://chatbot.legaltranslations.ae/)** | Conversational agent that collects and validates legal translation orders, replacing a manual intake process. Handles 500+ interactions daily. | LangGraph · FastAPI · PostgreSQL |
-| **[Business GPT](https://xevengpt.com/)** | Internal agent that manages project context and automates Gmail/Slack comms for the team. | Multi-agent · Tool calling · Slack/Gmail APIs |
-| **[Arabic NLP System](https://arabic.arzaiengineer.site/)** | Arabic-language QA, summarization, and translation over a 1M+ document corpus. | Hybrid retrieval · Vector DB · Multilingual embeddings |
-| **[Medical Cannabis Consultation Bot](https://stg.myfloridagreen.com/)** | Patient-facing consultation flow with HIPAA-conscious data handling. | RAG · Guardrails · FastAPI |
-| **[NLP Practitioner LMS](https://nlpbusiness.site/)** | Learning platform with personalized paths and automated assessment for accredited programs. | LLM evaluation · RAG |
-| **[Influencer's GPT](https://irfangpt.com/)** | Indexes 200+ hours of video content so the creator's audience can query it in his voice. | Transcription · Semantic search · Style transfer |
+| **Legal Translation Order Agent** | Conversational agent that collects and validates legal translation orders, replacing a manual intake process. Handles 500+ interactions daily. | LangGraph · FastAPI · PostgreSQL |
+| **Business GPT** | Internal agent that manages project context and automates Gmail/Slack comms for the team. | Multi-agent · Tool calling · Slack/Gmail APIs |
+| **Arabic NLP System** | Arabic-language QA, summarization, and translation over a 1M+ document corpus. | Hybrid retrieval · Vector DB · Multilingual embeddings |
+| **Medical Cannabis Consultation Bot** | Patient-facing consultation flow with HIPAA-conscious data handling. | RAG · Guardrails · FastAPI |
+| **NLP Practitioner LMS** | Learning platform with personalized paths and automated assessment for accredited programs. | LLM evaluation · RAG |
+| **Influencer's GPT** | Indexes 200+ hours of video content so the creator's audience can query it in his voice. | Transcription · Semantic search · Style transfer |
 
 ---
 
@@ -78,15 +76,6 @@ Currently an **AI Engineer at [Xeven Solutions](https://xevensolutions.com/)** i
 - Rebuilt company AI infrastructure with **redundant vector databases and API failover** — no single point of failure
 - Shipped **multilingual (Arabic + English)** systems that hold up on real user data, not just benchmarks
 - Retrieval pipelines running over **millions of documents** in production
-
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mfaizanmumtaz&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaizanmumtaz&layout=compact&hide_border=true&theme=default" alt="Top languages">
-</p>
 
 ---
 
