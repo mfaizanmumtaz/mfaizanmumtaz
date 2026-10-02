@@ -1,25 +1,26 @@
-<h1 align="center">Hi, I'm Muhammad Faizan Mumtaz 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Faizan Mumtaz</h1>
 
 <p align="center">
-  <b>AI Engineer — I build production AI agents, RAG systems, and multimodal pipelines.</b>
+  <b>AI Engineer and Founder of OmniHand AI. I build production AI agents, RAG systems and LLM applications.</b>
 </p>
 
 <p align="center">
+  <a href="https://faizan.omnihandai.com"><img src="https://img.shields.io/badge/Portfolio-faizan.omnihandai.com-111111?style=flat-square" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/muhammad-faizan-mumtaz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mfaizanmumtaz999@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-Most AI demos never survive contact with real users. My work is the part that comes after the demo: agents that hold state across long conversations, retrieval that stays accurate at a million documents, and APIs that don't fall over when traffic arrives.
+Most AI demos never survive contact with real users. My work is the part that comes after the demo: agents that hold state across long conversations, retrieval that stays accurate over 1M+ documents, and APIs that keep working when traffic arrives.
 
-Currently an **AI Engineer at [Xeven Solutions](https://xevensolutions.com/)** in Lahore, Pakistan — owning AI systems end to end, from architecture through deployment and monitoring.
+I'm an **AI Engineer and the Founder of [OmniHand AI](https://omnihandai.com)**, based in Lahore, Pakistan. I own AI systems end to end, from architecture through deployment and monitoring.
 
-**Right now I'm deep in:** LangGraph multi-agent orchestration · Model Context Protocol (MCP) · hybrid retrieval that actually beats naive vector search.
+**Right now I'm deep in:** LangGraph multi-agent orchestration · Model Context Protocol (MCP) · hybrid retrieval that beats naive vector search · evaluation sets built from real user queries.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Frameworks**
 
@@ -27,6 +28,8 @@ Currently an **AI Engineer at [Xeven Solutions](https://xevensolutions.com/)** i
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
 
 **LLMs & AI**
@@ -41,52 +44,55 @@ Currently an **AI Engineer at [Xeven Solutions](https://xevensolutions.com/)** i
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![Redis](https://img.shields.io/badge/Vector%20DBs-DC382D?style=flat-square)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-Pinecone%20%7C%20FAISS%20%7C%20Solr-5A3FC0?style=flat-square)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
 
 <details>
 <summary><b>The longer list</b></summary>
 
-- **Agents & orchestration** — multi-agent systems, tool calling, long-term memory, LangGraph state machines, MCP servers and clients
-- **Retrieval** — RAG architectures, hybrid (semantic + keyword) search, re-ranking, chunking strategies, evaluation
-- **Multimodal** — vision, audio transcription, text-to-speech pipelines
-- **Production concerns** — token budgeting, rate limiting, prompt injection defense, API failover, redundant vector stores, observability with LangSmith
-- **Integrations** — Slack, Gmail, LinkedIn, WhatsApp Business API, Twilio
+- **Agents & orchestration**: multi-agent systems, tool calling, long-term memory, LangGraph state machines, MCP servers and clients, human-in-the-loop handoff
+- **Retrieval**: RAG architectures, hybrid BM25 and vector search, chunking strategies, PostgreSQL as source of truth with embeddings in the vector database
+- **Evaluation**: evaluation sets from real user queries, correctness, groundedness and hallucination checks, regression tests
+- **Voice AI**: Retell AI voice agents over Twilio SIP trunking, speech-to-text and text-to-speech
+- **Production concerns**: token and cost tracking, rate limiting, prompt injection defense, LLM provider fallback, backups, observability with LangSmith
+- **Integrations**: Slack, Gmail, WhatsApp, Twilio
 
 </details>
 
 ---
 
-### 🎯 Featured Work
+### Featured Work
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **Legal Translation Order Agent** | Conversational agent that collects and validates legal translation orders, replacing a manual intake process. Handles 500+ interactions daily. | LangGraph · FastAPI · PostgreSQL |
-| **Business GPT** | Internal agent that manages project context and automates Gmail/Slack comms for the team. | Multi-agent · Tool calling · Slack/Gmail APIs |
-| **Arabic NLP System** | Arabic-language QA, summarization, and translation over a 1M+ document corpus. | Hybrid retrieval · Vector DB · Multilingual embeddings |
-| **Medical Cannabis Consultation Bot** | Patient-facing consultation flow with HIPAA-conscious data handling. | RAG · Guardrails · FastAPI |
-| **NLP Practitioner LMS** | Learning platform with personalized paths and automated assessment for accredited programs. | LLM evaluation · RAG |
-| **Influencer's GPT** | Indexes 200+ hours of video content so the creator's audience can query it in his voice. | Transcription · Semantic search · Style transfer |
+| **[OmniHand AI](https://omnihandai.com)** | My multi-tenant AI customer support platform: businesses create AI agents, upload their own knowledge base, set human handoff rules and reply from a shared inbox. | LangGraph · RAG · FastAPI · PostgreSQL · WebSocket |
+| **[Taqwi AI Support Assistant](https://taqwi.ai)** | RAG assistant that answers platform questions from help guides and video tutorials, tailored per user type. Handles ~500 queries a day and answers 3x faster than the previous support process. | Hybrid BM25 + vector retrieval · Structured output · LangSmith · FastAPI |
+| **[Covis AI HRMS Module](https://covis.ai)** | Full-stack HRMS module with location-verified attendance: live GPS check with an office Wi-Fi fallback, so check-ins are verified without biometric hardware. | Full-stack · REST APIs · PostgreSQL |
+| **Arabic NLP System** | Arabic and English question answering, summarization and translation over 1M+ documents with 92% accuracy. | Multilingual embeddings · Hybrid retrieval · Vector DB |
+| **Legal Translation Order Agent** | Conversational agent that collects and validates legal translation orders, handling 500+ interactions a day and cutting manual processing by 70%. | LangGraph · FastAPI · PostgreSQL |
+| **[Influencer's GPT](https://irfangpt.com)** | Indexes 200+ hours of YouTube content so the audience can ask questions answered in the creator's style, with 90% style accuracy. | Transcription · Semantic search · RAG |
+| **[NLP Practitioner LMS](https://nlpcentar.app)** | Learning platform with personalized learning paths and automated assessments for 200+ students across accredited programs. | LLM evaluation · RAG |
 
 ---
 
-### 🌟 Things I'm proud of
+### Things I'm proud of
 
-- Cut manual operational work by **~40%** across client workflows through agent automation
-- Rebuilt company AI infrastructure with **redundant vector databases and API failover** — no single point of failure
+- Cut manual operational work by **~40%** across client workflows through AI automation
+- Made production AI services resilient with **LLM provider fallback, rate limiting and backups**, so one failing provider doesn't take a service down
 - Shipped **multilingual (Arabic + English)** systems that hold up on real user data, not just benchmarks
-- Retrieval pipelines running over **millions of documents** in production
+- Retrieval pipelines running over **1M+ documents** in production
+- Taught **244 one-on-one lessons** on AI engineering, RAG, agents and Python on Preply
 
 ---
 
-### 📫 Let's build something
+### Let's build something
 
-I'm open to **remote roles, contract work, and collaborations** — especially anything involving agentic systems, retrieval at scale, or enterprise AI automation. I also teach AI engineering, so if you're learning, my inbox is open too.
+I'm open to **remote roles, contract work and collaborations**, especially anything involving agentic systems, retrieval at scale or enterprise AI automation. I also teach AI engineering, so if you're learning, my inbox is open too.
 
-- 📧 **Email** — [mfaizanmumtaz999@gmail.com](mailto:mfaizanmumtaz999@gmail.com)
-- 💼 **LinkedIn** — [muhammad-faizan-mumtaz](https://www.linkedin.com/in/muhammad-faizan-mumtaz/)
-- 🐙 **GitHub** — [@mfaizanmumtaz](https://github.com/mfaizanmumtaz)
+- **Portfolio**: [faizan.omnihandai.com](https://faizan.omnihandai.com)
+- **Email**: [mfaizanmumtaz999@gmail.com](mailto:mfaizanmumtaz999@gmail.com)
+- **LinkedIn**: [muhammad-faizan-mumtaz](https://www.linkedin.com/in/muhammad-faizan-mumtaz/)
 
 <p align="center">
-  <i>Building intelligent systems that make a difference.</i>
+  <i>Building AI systems that work for real users.</i>
 </p>
