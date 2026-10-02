@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Faizan Mumtaz</h1>
 
 <p align="center">
-  <b>AI Engineer and Founder of OmniHand AI. I build production AI agents, RAG systems and LLM applications.</b>
+  <b>AI Engineer at Xeven Solutions and Founder of OmniHand AI. I build production AI agents, RAG systems and LLM applications.</b>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 Most AI demos never survive contact with real users. My work is the part that comes after the demo: agents that hold state across long conversations, retrieval that stays accurate over 1M+ documents, and APIs that keep working when traffic arrives.
 
-I'm an **AI Engineer and the Founder of [OmniHand AI](https://omnihandai.com)**, based in Lahore, Pakistan. I own AI systems end to end, from architecture through deployment and monitoring.
+Currently an **AI Engineer at [Xeven Solutions](https://xevensolutions.com/)** in Lahore, Pakistan, and the **Founder of [OmniHand AI](https://omnihandai.com)**. I own AI systems end to end, from architecture through deployment and monitoring.
 
 **Right now I'm deep in:** LangGraph multi-agent orchestration · Model Context Protocol (MCP) · hybrid retrieval that beats naive vector search · evaluation sets built from real user queries.
 
@@ -68,6 +68,7 @@ I'm an **AI Engineer and the Founder of [OmniHand AI](https://omnihandai.com)**,
 | **[OmniHand AI](https://omnihandai.com)** | My multi-tenant AI customer support platform: businesses create AI agents, upload their own knowledge base, set human handoff rules and reply from a shared inbox. | LangGraph · RAG · FastAPI · PostgreSQL · WebSocket |
 | **[Taqwi AI Support Assistant](https://taqwi.ai)** | RAG assistant that answers platform questions from help guides and video tutorials, tailored per user type. Handles ~500 queries a day and answers 3x faster than the previous support process. | Hybrid BM25 + vector retrieval · Structured output · LangSmith · FastAPI |
 | **[Covis AI HRMS Module](https://covis.ai)** | Full-stack HRMS module with location-verified attendance: live GPS check with an office Wi-Fi fallback, so check-ins are verified without biometric hardware. | Full-stack · REST APIs · PostgreSQL |
+| **[support-agent-harness](https://github.com/mfaizanmumtaz/support-agent-harness)** | Open-source customer-support AI agent: retrieval before the model, tool calling, human handoff with a fast classifier second opinion (Jev), and evals that measure it. | Agents · RAG · Tool calling · Evals |
 | **Arabic NLP System** | Arabic and English question answering, summarization and translation over 1M+ documents with 92% accuracy. | Multilingual embeddings · Hybrid retrieval · Vector DB |
 | **Legal Translation Order Agent** | Conversational agent that collects and validates legal translation orders, handling 500+ interactions a day and cutting manual processing by 70%. | LangGraph · FastAPI · PostgreSQL |
 | **[Influencer's GPT](https://irfangpt.com)** | Indexes 200+ hours of YouTube content so the audience can ask questions answered in the creator's style, with 90% style accuracy. | Transcription · Semantic search · RAG |
